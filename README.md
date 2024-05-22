@@ -56,12 +56,6 @@
       <a href="https://github.com/lhccong/wanwu-generator">思想驿站🌱  ——  基于 Java + SpringBoot + Vue3 的个人博客平台</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/springboot-init-new">SpringBoot 项目快速开发模板（新）⚡ ——  基于 Java SpringBoot 的项目初始模板，整合了常用框架和主流业务的示例代码</a>
-    </li>
-    <li>
-      <a href="https://github.com/wwdhbw/springboot-init-old">SpringBoot 项目快速开发模板（旧）⚡  —— 基于 Java SpringBoot 的项目初始模板，整合了常用框架和主流业务的示例代码</a>
-    </li>
-    <li>
       <a href="https://github.com/wwdhbw/winter-api-space-backend">API Space🚀 - 融合之前所有项目的一个以 API 开放平台为核心的综合项目</a>
     </li>
     <li>
