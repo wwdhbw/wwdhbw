@@ -13,49 +13,53 @@
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=java,spring,kubernetes,docker,jenkins,mysql,redis,rabbitmq,py,cs,linux,html,css,js,ts,vue,react,nodejs,nginx,git,github,gitlab,md,sublime,vscode,visualstudio,idea,webstorm,pycharm,rider&theme=light" />
+<br/>
 
 <ul>
     <li>
-      <a href="https://github.com/wwdhbw/winter-ai-answer-backend">心灵镜像💭</a>
+      <a href="https://github.com/wwdhbw/winter-ai-answer-backend">心灵镜像💭  ——  基于 Vue 3 + Spring Boot + Redis + ChatGLM + RxJava + SSE 的 Al 答题应用平台</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-gen-code-backend">代码魔方🌱</a>
+      <a href="https://github.com/wwdhbw/winter-gen-code-backend">代码魔方🌱  ——  基于 React + Spring Boot + Picocli + 对象存储的代码生成器共享平台</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-oj-backend">算法挑战者🚀</a>
+      <a href="https://github.com/wwdhbw/winter-oj-backend">算法挑战者🚀  ——  基于 Vue 3 + Spring Boot+ Spring Cloud 微服务 +Docker 的 编程题目在线评测系统</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-bi-backend">智慧决策引擎✨</a>
+      <a href="https://github.com/wwdhbw/winter-bi-backend">智慧决策引擎✨  ——  基于 React + Spring Boot + MQ + AIGC 的智能数据分析平台</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-search-backend">聚合搜索⚡</a>
+      <a href="https://github.com/wwdhbw/winter-search-backend">聚合搜索⚡  ——  企业级一站式聚合搜索平台，基于 Vue 3 前端 + Spring Boot 后端 + Elastic Stack 的 全栈中台项目</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-api-backend">API 开放平台🔥</a>
+      <a href="https://github.com/wwdhbw/winter-api-backend">API 开放平台🔥  ——  提供 API 接口供开发者调用的平台，基于 Spring Boot 后端 + React 前端的 全栈微服务项目</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-friend-backend">伙伴匹配✅</a>
+      <a href="https://github.com/wwdhbw/winter-friend-backend">伙伴匹配✅  ——  匹配学习伙伴的移动端 H5 网站（APP 风格），基于 Spring Boot 后端 + Vue3 前端的全栈项目</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-user-center-backend">用户中心💭</a>
+      <a href="https://github.com/wwdhbw/winter-user-center-backend">用户中心💭  ——  基于 Spring Boot 后端 + React 前端的全栈项目</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-invite-job-backend">企业招聘🚀</a>
+      <a href="https://github.com/wwdhbw/winter-invite-job-backend">企业招聘🚀 ——  基于 Java + SpringBoot + React 的企业招聘系统</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-announcement-backend">动态公告💭</a>
+      <a href="https://github.com/wwdhbw/winter-announcement-backend">动态公告💭  —— 基于 Spring Boot + MySQL + React + Ant Design 组件库 + SweetAlert 的动态公告系统</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-rpc-backend">轻量化 RPC✅</a>
+      <a href="https://github.com/wwdhbw/winter-perimeter-backend">周边系统✨  —— 基于 Spring Boot + React + Ant Design 组件库 + MySQL + Redis 的企业级周边系统</a>
     </li>
     <li>
-      <a href="https://github.com/lhccong/wanwu-generator">思想驿站🌱</a>
+      <a href="https://github.com/wwdhbw/winter-rpc-backend">轻量化 RPC✅  ——  基于 Java + Etcd + Vert.x 的高性能 RPC 框架</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/springboot-init-new">SpringBoot 项目快速开发模板（新）⚡</a>
+      <a href="https://github.com/lhccong/wanwu-generator">思想驿站🌱  ——  基于 Java + SpringBoot + Vue3 的个人博客平台</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/springboot-init-old">SpringBoot 项目快速开发模板（旧）⚡</a>
+      <a href="https://github.com/wwdhbw/springboot-init-new">SpringBoot 项目快速开发模板（新）⚡ ——  基于 Java SpringBoot 的项目初始模板，整合了常用框架和主流业务的示例代码</a>
+    </li>
+    <li>
+      <a href="https://github.com/wwdhbw/springboot-init-old">SpringBoot 项目快速开发模板（旧）⚡  —— 基于 Java SpringBoot 的项目初始模板，整合了常用框架和主流业务的示例代码</a>
     </li>
     <li>
       <a href="https://github.com/wwdhbw/winter-api-space-backend">API Space🚀 - 融合之前所有项目的一个以 API 开放平台为核心的综合项目</a>
