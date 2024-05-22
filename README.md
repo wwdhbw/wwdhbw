@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello,%20World!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Winter.&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=路漫漫其修远兮，吾将上下而求索;悟已往之不谏，知来者之可追" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=800&lines=路漫漫其修远兮，吾将上下而求索;悟已往之不谏，知来者之可追" />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=wwdhbw&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true" /><img align="center" width="400" src="https://streak-stats.demolab.com?user=wwdhbw&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
