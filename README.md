@@ -58,9 +58,6 @@
     <li>
       <a href="https://github.com/wwdhbw/winter-api-space-backend">API Space🚀 - 融合之前所有项目的一个以 API 开放平台为核心的综合项目</a>
     </li>
-    <li>
-      <a href="https://github.com/wwdhbw/winter-programming-directory">winter 编程录🌱 - 基于 VuePress 的静态网站</a>
-    </li>
   </ul>
 
 <!-- https://github.com/kyechan99/capsule-render -->
