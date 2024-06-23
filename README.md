@@ -32,16 +32,16 @@
       <a href="https://github.com/wwdhbw/winter-search-backend">聚合搜索⚡  ——  企业级一站式聚合搜索平台，基于 Vue 3 前端 + Spring Boot 后端 + Elastic Stack 的 全栈中台项目</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-api-backend">API 开放平台🔥  ——  提供 API 接口供开发者调用的平台，基于 Spring Boot 后端 + React 前端的 全栈微服务项目</a>
+      <a href="https://github.com/wwdhbw/winter-api-backend">编织云端🔥  ——  提供 API 接口供开发者调用的平台，基于 Spring Boot 后端 + React 前端的 全栈微服务项目</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-friend-backend">伙伴匹配✅  ——  匹配学习伙伴的移动端 H5 网站（APP 风格），基于 Spring Boot 后端 + Vue3 前端的全栈项目</a>
+      <a href="https://github.com/wwdhbw/winter-friend-backend">编程共鸣✅  ——  匹配学习伙伴的移动端 H5 网站（APP 风格），基于 Spring Boot 后端 + Vue3 前端的全栈项目</a>
     </li>
     <li>
       <a href="https://github.com/wwdhbw/winter-user-center-backend">用户中心💭  ——  基于 Spring Boot 后端 + React 前端的全栈项目</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-invite-job-backend">企业招聘🚀 ——  基于 Java + SpringBoot + React 的企业招聘系统</a>
+      <a href="https://github.com/wwdhbw/winter-invite-job-backend">才海航标🚀 ——  基于 Java + SpringBoot + React 的企业招聘系统</a>
     </li>
     <li>
       <a href="https://github.com/wwdhbw/winter-announcement-backend">动态公告💭  —— 基于 Spring Boot + MySQL + React + Ant Design 组件库 + SweetAlert 的动态公告系统</a>
