@@ -61,4 +61,4 @@
   </ul>
 
 <!-- https://github.com/kyechan99/capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Good%20bye!&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20our%20code%20be%20BUG-FREE!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=See%20You%20Later!&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20our%20code%20be%20BUG-FREE!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
