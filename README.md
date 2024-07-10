@@ -12,7 +12,7 @@
 <br/>
 
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=java,spring,kubernetes,docker,jenkins,mysql,redis,rabbitmq,py,cs,linux,html,css,js,ts,vue,react,nodejs,nginx,git,github,gitlab,md,sublime,vscode,visualstudio,idea,webstorm,pycharm,rider&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,rabbitmq,docker,jenkins,kubernetes,html,css,js,ts,vue,vite,pinia,react,nodejs,nginx,git,github,gitlab,linux,md,vscode,visualstudio,idea,webstorm,pycharm,rider&theme=light" />
 <br/>
 
 <ul>
