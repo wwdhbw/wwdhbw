@@ -53,7 +53,7 @@
       <a href="https://github.com/wwdhbw/winter-rpc-backend">手写 RPC🚀  ——  基于 Java + Etcd + Vert.x 的高性能 RPC 框架</a>
     </li>
     <li>
-      <a href="https://github.com/lhccong/wanwu-generator">思想驿站🔥  ——  基于 Java + SpringBoot + Vue3 的个人博客平台</a>
+      <a href="https://github.com/lhccong/wanwu-generator">思想驿站✅  ——  基于 Java + SpringBoot + Vue3 的个人博客平台</a>
     </li>
     <li>
       <a href="https://github.com/wwdhbw/winter-api-space-backend">API Space🚀 - 融合之前所有项目的一个以 API 开放平台为核心的综合项目</a>
