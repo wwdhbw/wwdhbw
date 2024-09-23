@@ -35,10 +35,10 @@
       <a href="https://github.com/wwdhbw/winter-search-backend">聚合搜索🚀  ——  企业级一站式聚合搜索平台，基于 Vue 3 前端 + Spring Boot 后端 + Elastic Stack 的 全栈中台项目</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-api-backend">API 开放平台🚀  ——  提供 API 接口供开发者调用的平台，基于 Spring Boot 后端 + React 前端的 全栈微服务项目</a>
+      <a href="https://github.com/wwdhbw/winter-api-backend">API 开放平台🔥  ——  提供 API 接口供开发者调用的平台，基于 Spring Boot 后端 + React 前端的 全栈微服务项目</a>
     </li>
     <li>
-      <a href="https://github.com/wwdhbw/winter-friend-backend">伙伴匹配🔥  ——  匹配学习伙伴的移动端 H5 网站（APP 风格），基于 Spring Boot 后端 + Vue3 前端的全栈项目</a>
+      <a href="https://github.com/wwdhbw/winter-friend-backend">伙伴匹配✅  ——  匹配学习伙伴的移动端 H5 网站（APP 风格），基于 Spring Boot 后端 + Vue3 前端的全栈项目</a>
     </li>
     <li>
       <a href="https://github.com/wwdhbw/winter-user-center-backend">用户中心✅  ——  基于 Spring Boot 后端 + React 前端的全栈项目</a>
