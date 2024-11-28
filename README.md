@@ -17,7 +17,7 @@
 
 <ul>
     <li>
-      <a href="https://github.com/wwdhbw/winter-ai-answer-backend">编程征途🚀  ——  基于 Next.js + Spring Boot + Redis + MySQL + Elasticsearch 的 面试刷题平台</a>
+      <a href="https://github.com/wwdhbw/winter-ai-answer-backend">编程征途🚀  ——  基于 Next.js + Spring Boot + Redis + MySQL + Elasticsearch 的面试刷题平台</a>
     </li>
     <li>
       <a href="https://github.com/wwdhbw/winter-ai-answer-backend">心灵镜像🚀  ——  基于 Vue 3 + Spring Boot + Redis + ChatGLM + RxJava + SSE 的 Al 答题应用平台</a>
